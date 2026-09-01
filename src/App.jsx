@@ -18,6 +18,8 @@ function App() {
         <li>Git</li>
         <li>GitHub</li>
       </ul>
+
+      <p>Day 15 is complete!</p>
     </div>
   );
 }
