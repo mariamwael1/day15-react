@@ -8,7 +8,9 @@ function App() {
       <p>I am learning how React projects are created and managed.</p>
 
       <h2>What I learned:</h2>
-
+                    
+      <p>Day 15 is complete!</p>
+      
       <ul>
         <li>Vite</li>
         <li>npm</li>
@@ -18,8 +20,6 @@ function App() {
         <li>Git</li>
         <li>GitHub</li>
       </ul>
-
-      <p>Day 15 is complete!</p>
     </div>
   );
 }
